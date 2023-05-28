@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Menu of Slad Hookah</title>
+  </head>
+  <body>
+    <h1>Menu of Slad Hookah</h1>
+    <object data="/menu_230515.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Error, Please ask to Slad Hookah Team!</p>
+    </object>
+  </body>
+</html>
